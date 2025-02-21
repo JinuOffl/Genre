@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    tools:context=".PlayerActivity">
+
+
+    <androidx.media3.ui.PlayerView
+        android:id="@+id/playerView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:played_color="@color/white"
+        app:scrubber_color="@color/white"
+        app:unplayed_color="@color/grey"
+        app:show_buffering="when_playing"
+        app:show_subtitle_button="true">
+
+    </androidx.media3.ui.PlayerView>
+
+
+</LinearLayout>
