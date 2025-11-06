@@ -74,7 +74,7 @@ Designed in **Android Studio**, with UI components built in **XML** and visual a
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/Genre.git
+   git clone https://github.com/JinuOffl/Genre.git
    cd Genre
    ```
 
@@ -154,25 +154,6 @@ The app follows a **modular architecture** with separation of concerns:
 - Firebase Email & Password Authentication.
 - Secure login, logout, and user data management.
 - Real-time session handling for smoother user experience.
-
----
-
-## 📚 Bibliography & References
-- [Firebase Documentation](https://firebase.google.com/docs)
-- [ExoPlayer Developer Guide](https://exoplayer.dev/)
-- [Glide Image Library](https://bumptech.github.io/glide/)
-- [Android Developer Docs](https://developer.android.com/)
-- [Firebase Authentication Guide](https://medium.com/@Adekola_Olawale/firebase-authentication)
-
----
-
-## 🧠 Future Enhancements
-- Add **Watchlist & Favorites**
-- Implement **In-App Downloads / Offline Mode**
-- Support for **Multiple Languages**
-- Integrate **AdMob** for monetization
-- Enhance UI with **Jetpack Compose**
-- Build **Recommendation Engine** using Firebase ML
 
 ---
 
